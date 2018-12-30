@@ -25,4 +25,8 @@ export class DashboardComponent implements OnInit {
     const selected = shuffled.slice(0, splitValue);
     return selected;
   }
+
+  regenrate() {
+    this.questionsToDisplay = new Questions().data;
+  }
 }
