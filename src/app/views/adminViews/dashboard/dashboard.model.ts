@@ -11,57 +11,57 @@ export class Questions {
                     content: [
                         {
                             id: 1,
-                            question: 'what is your name 1',
+                            question: 'Question 1',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
-                            id: 1,
-                            question: 'what is your name2',
+                            id: 2,
+                            question: 'Question 2',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
-                            id: 1,
-                            question: 'what is your name3',
+                            id: 3,
+                            question: 'Question 3',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
-                            id: 1,
-                            question: 'what is your name4',
+                            id: 4,
+                            question: 'Question 4',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
-                            id: 1,
-                            question: 'what is your name5',
+                            id: 5,
+                            question: 'Question 5',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         }
                     ]
@@ -76,57 +76,57 @@ export class Questions {
                     content: [
                         {
                             id: 1,
-                            question: 'what is your name11',
+                            question: 'Question 01',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
                             id: 2,
-                            question: 'what is your name12',
+                            question: 'Question 02',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
                             id: 3,
-                            question: 'what is your name13',
+                            question: 'Question 03',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
                             id: 4,
-                            question: 'what is your name14',
+                            question: 'Question 04',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         },
                         {
                             id: 5,
-                            question: 'what is your name15',
+                            question: 'Question 05',
                             pattern: 'multiple',
                             options: [
-                                'sai',
-                                'mani',
-                                'kumar',
-                                'none'
+                                'Option 1',
+                                'Option 2',
+                                'Option 3',
+                                'Option 4'
                             ]
                         }
                     ]
