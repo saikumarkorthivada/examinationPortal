@@ -19,10 +19,10 @@ export class DashboardComponent implements OnInit {
     console.log(this.questionsToDisplay);
   }
 
-  getRandomArr(arrInut) {
+  getRandomArr(arrInut, splitValue) {
     const arr = arrInut;
     const shuffled = arr.sort(() => .5 - Math.random());
-    const selected = shuffled.slice(0, 2);
+    const selected = shuffled.slice(0, splitValue);
     return selected;
   }
 }
