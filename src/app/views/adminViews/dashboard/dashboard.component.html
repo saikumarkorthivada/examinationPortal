@@ -13,10 +13,10 @@
   <ng-container *ngFor="let sub of questionsToDisplay.subject;let k = index">
     <h1>{{sub.name}}</h1>
     <h1>{{sub.section.name}}</h1>
-    <ng-container *ngFor="let item of getRandomArr(sub.section.content);let i = index">
+    <ng-container *ngFor="let item of getRandomArr(sub.section.content, 2);let i = index">
       <p><b>{{i+1 + '. ' + item.question}}</b></p>
       <ng-container *ngIf="item.pattern === 'multiple'">
-        <ng-container *ngFor="let option of item.options; let j = index">
+        <ng-container *ngFor="let option of getRandomArr(item.options, 4); let j = index">
           <p> {{ j+1 + '. ' + option}} </p>
         </ng-container>
       </ng-container>
